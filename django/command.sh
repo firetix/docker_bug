@@ -1,5 +1,5 @@
 #!/bin/bash
-python /home/docker/backend/bootstrap.py
+python /home/backend/bootstrap.py
 mkdir -p /var/log/backend/supervisor/
 mkdir -p /var/log/supervisor/
 mkdir -p /tmp/backend/
