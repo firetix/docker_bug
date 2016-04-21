@@ -1,4 +1,4 @@
 django:
     build: django
     volumes:
-        - ./django/:/home/django/
+        - ./django/:/home/docker/django/
