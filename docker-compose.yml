@@ -1,4 +1,6 @@
 django:
     build: django
+    command: ./command.sh
     volumes:
         - ./django/:/home/docker/django/
+    
